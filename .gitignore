@@ -1,0 +1,6 @@
+vectorstore/
+__pycache__/
+*.pyc
+*.pkl
+feedback.csv
+.env
