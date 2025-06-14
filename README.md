@@ -4,7 +4,7 @@ This project is an AI-powered assistant designed to answer parents' and students
 
 ## 🔧 Features
 
-- Loads program details from a PDF (Manitoba sample)
+- Loads program details from a PDF
 - Builds a FAISS vector store using `sentence-transformers`
 - Answers questions using a locally run LLaMA model (via Ollama)
 - Collects feedback after each answer
