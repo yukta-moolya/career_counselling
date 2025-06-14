@@ -1,6 +1,6 @@
 # Career Counselling Assistant (RAG-based QA with Ollama)
 
-This project is an AI assistant for answering parent Doubt & Questions about school programs, partnerships, and pricing. It uses a PDF document as knowledge and a local LLaMA model for answers.
+This project is an AI-powered assistant designed to answer parents' and students' questions about career options after 10th grade in India. It uses a PDF document as its knowledge base and leverages a locally hosted LLaMA model (via Ollama) to provide accurate, contextual responses using Retrieval-Augmented Generation (RAG). The system is built using LangChain, FAISS, and includes a feedback mechanism to log user satisfaction.
 
 ## 🔧 Features
 
